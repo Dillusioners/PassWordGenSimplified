@@ -23,4 +23,4 @@ c = " "
 for n in range(len(pass_list)):
     c = c + pass_list[n]
 
-print(c)
+print("The password is: ", c)
